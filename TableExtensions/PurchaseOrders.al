@@ -1,4 +1,4 @@
-tableextension 50127 "Purchase ext" extends "Purchase Header"
+tableextension 50131 "Item Charge ext" extends "Item Charge"
 {
 
     fields
